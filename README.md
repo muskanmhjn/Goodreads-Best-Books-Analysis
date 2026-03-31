@@ -1,6 +1,6 @@
 # Goodreads-Best-Books-Analysis
 
-[Dashboard published on PowerBi Service](https://app.powerbi.com/links/0eCAd1IZ5m?ctid=e74815db-da10-4d1f-a261-b0e9292c5d13&pbi_source=linkShare)
+[Dashboard published on PowerBI Service](https://app.powerbi.com/links/0eCAd1IZ5m?ctid=e74815db-da10-4d1f-a261-b0e9292c5d13&pbi_source=linkShare)
 
 [PowerBi Desktop file](https://github.com/muskanmhjn/Goodreads-Best-Books-Analysis/releases/tag/PowerBi)
 
